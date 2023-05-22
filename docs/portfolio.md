@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 ---
 
-[Getting the Most out of Your Load Balancing System with HAProxy](https://connorrawls.github.io/images/HAProxy-Tech-Paper.pdf): Technical paper on the intricacies of load balancing using HAProxy as a current industry standard example. (2022)
+[Getting the Most out of Your Load Balancing System with HAProxy](https://connorrawls.github.io/images/HAProxy-Tech-Paper.pdf): Technical paper on the intricacies of load balancing using HAProxy as a current industry standard example. (2022) [arxiv](https://arxiv.org/abs/2212.14198)
 
 [Determining Housing Prices Using a Machine Learning Model](https://connorrawls.github.io/images/ML-Housing-Price.pdf): Neural Networks course project to determine the price of houses given representable features. (2022)
 
